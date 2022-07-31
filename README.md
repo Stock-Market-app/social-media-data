@@ -73,5 +73,3 @@ We ran this code using a Jupyter server. The Jupyter server needs to be started 
 2.  The `jupyter-notebook` command should open a browser tab with the Jupyter Notebook's home directory. Open the `facebook-analysis.ipynb` or `twitter.ipynb` files.
     -   Customise the variables in the first code block to point to the correct directories (starting from the Jupyter server's working directory).
     -   Run the code blocks in order!
-    -   Have fun, change things, hopefully responsibly share cool fun stats about what you've found :D
-        - **ALSO PLEASE TELL ME IF YOU FOUND A PRIDE REACT IN YOUR FACEBOOK DATA 🏳️‍🌈**
