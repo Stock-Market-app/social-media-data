@@ -1,6 +1,11 @@
 # Social Media Data Analysis: FLIPKART GRID 4.0 : SOFTWARE DEVELOPMENT CHALLENGE
 
-TEAM: BAJ, we have opted for the 3rd topic which was to extract trends from social media data & have taken references from various sources.
+>TEAM: BAJ 
+<br>
+
+>We have opted for the 3rd topic which was to extract trends from social media data & have taken references from various sources.
+
+<br>
 Basically this is for analysing archives of your own personal data as provided
 by social media sites. We made this code for a talk at PyConAU 2018 called ["Accessing and analysing your own social media data"](https://2018.pycon-au.org/talks/45252-accessing-and-analysing-your-own-social-media-data/).
 
@@ -12,7 +17,7 @@ References:
 
 The talk explored what personal data is, how we can download it from social media sites (in particular Facebook and Twitter), and how we learnt some basic data analysis tools in Python to look into the information we received.
 
-***WARNING: Please share this data responsibly!*** While this project is about downloading and analysing your own personal data, the basic premise of social media sites is that you are interacting with other people. Other people may not appreciate it if you share their own personal data as a result of this project. You may have private or sensitive information that others have shared with you in your archive.
+***WARNING: Please share this data responsibly!*** While this project is about downloading and analysing our own personal data, the basic premise of social media sites is that we are interacting with other people. Other people may not appreciate it if you share their own personal data as a result of this project.
 
 ## Requirements
 
